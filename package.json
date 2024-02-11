@@ -2,9 +2,14 @@
   "name": "peace",
   "displayName": "peace",
   "description": "peace theme",
-  "version": "0.0.1",
+  "icon": "image/Peace.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.86.0"
+  },
+  "publisher": "TheAliAhad",
+  "repository": {
+    "url": "https://github.com/aliahadmd/peace"
   },
   "categories": [
     "Themes"
