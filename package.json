@@ -3,7 +3,7 @@
   "displayName": "peace",
   "description": "peace theme",
   "icon": "image/Peace.png",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.86.0"
   },
